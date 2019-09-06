@@ -1,4 +1,5 @@
 # Python3-Adfly-Api
+Este fork es suficiente para creacion dinamica de links, pero para la lectura y borrado de estos es necesario actualizar la generacion de los hashes para la comunicacion con la API, por que se quedo en la version 2,es doloroso asi que el borrado es sin usar la API
 updated Adfly API support for Python 3
 by Mateo Wartelle
 
